@@ -1,0 +1,16 @@
+E:\src\React\Reactivities\Persistance\bin\Debug\net9.0\Persistance.deps.json
+E:\src\React\Reactivities\Persistance\bin\Debug\net9.0\Persistance.dll
+E:\src\React\Reactivities\Persistance\bin\Debug\net9.0\Persistance.pdb
+E:\src\React\Reactivities\Persistance\bin\Debug\net9.0\Domain.dll
+E:\src\React\Reactivities\Persistance\bin\Debug\net9.0\Domain.pdb
+E:\src\React\Reactivities\Persistance\obj\Debug\net9.0\Persistance.csproj.AssemblyReference.cache
+E:\src\React\Reactivities\Persistance\obj\Debug\net9.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+E:\src\React\Reactivities\Persistance\obj\Debug\net9.0\Persistance.AssemblyInfoInputs.cache
+E:\src\React\Reactivities\Persistance\obj\Debug\net9.0\Persistance.AssemblyInfo.cs
+E:\src\React\Reactivities\Persistance\obj\Debug\net9.0\Persistance.csproj.CoreCompileInputs.cache
+E:\src\React\Reactivities\Persistance\obj\Debug\net9.0\Persistance.sourcelink.json
+E:\src\React\Reactivities\Persistance\obj\Debug\net9.0\Persista.3F568332.Up2Date
+E:\src\React\Reactivities\Persistance\obj\Debug\net9.0\Persistance.dll
+E:\src\React\Reactivities\Persistance\obj\Debug\net9.0\refint\Persistance.dll
+E:\src\React\Reactivities\Persistance\obj\Debug\net9.0\Persistance.pdb
+E:\src\React\Reactivities\Persistance\obj\Debug\net9.0\ref\Persistance.dll

@@ -1,0 +1,12 @@
+E:\src\React\Reactivities\Domain\bin\Debug\net9.0\Domain.deps.json
+E:\src\React\Reactivities\Domain\bin\Debug\net9.0\Domain.dll
+E:\src\React\Reactivities\Domain\bin\Debug\net9.0\Domain.pdb
+E:\src\React\Reactivities\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\src\React\Reactivities\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+E:\src\React\Reactivities\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+E:\src\React\Reactivities\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+E:\src\React\Reactivities\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+E:\src\React\Reactivities\Domain\obj\Debug\net9.0\Domain.dll
+E:\src\React\Reactivities\Domain\obj\Debug\net9.0\refint\Domain.dll
+E:\src\React\Reactivities\Domain\obj\Debug\net9.0\Domain.pdb
+E:\src\React\Reactivities\Domain\obj\Debug\net9.0\ref\Domain.dll
