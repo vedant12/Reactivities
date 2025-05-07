@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IX9eRmPZTHo=",
+  "success": true,
+  "projectFilePath": "E:\\src\\React\\Reactivities\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vmala\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\vmala\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
