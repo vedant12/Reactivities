@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\src\\React\\Reactivities\\API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB9D0217-2036-43F5-B418-8A76C3FA4B38}|API.csproj|e:\\src\\react\\reactivities\\api\\controllers\\activitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB9D0217-2036-43F5-B418-8A76C3FA4B38}|API.csproj|solutionrelative:controllers\\activitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB9D0217-2036-43F5-B418-8A76C3FA4B38}|API.csproj|e:\\src\\react\\reactivities\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB9D0217-2036-43F5-B418-8A76C3FA4B38}|API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9D0217-2036-43F5-B418-8A76C3FA4B38}|API.csproj|e:\\src\\react\\reactivities\\api\\controllers\\activitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9D0217-2036-43F5-B418-8A76C3FA4B38}|API.csproj|solutionrelative:controllers\\activitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA284061-67FF-461D-8105-410BCD53BB4C}|..\\Persistance\\Persistance.csproj|e:\\src\\react\\reactivities\\persistance\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -24,7 +24,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -40,26 +40,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ActivitiesController.cs",
               "DocumentMoniker": "E:\\src\\React\\Reactivities\\API\\Controllers\\ActivitiesController.cs",
               "RelativeDocumentMoniker": "Controllers\\ActivitiesController.cs",
               "ToolTip": "E:\\src\\React\\Reactivities\\API\\Controllers\\ActivitiesController.cs",
               "RelativeToolTip": "Controllers\\ActivitiesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T16:48:48.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\src\\React\\Reactivities\\API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\src\\React\\Reactivities\\API\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T16:34:30.644Z",
               "EditorCaption": ""

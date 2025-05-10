@@ -1,4 +1,5 @@
 E:\src\React\Reactivities\Persistance\bin\Debug\net9.0\Persistance.deps.json
+E:\src\React\Reactivities\Persistance\bin\Debug\net9.0\Persistance.runtimeconfig.json
 E:\src\React\Reactivities\Persistance\bin\Debug\net9.0\Persistance.dll
 E:\src\React\Reactivities\Persistance\bin\Debug\net9.0\Persistance.pdb
 E:\src\React\Reactivities\Persistance\bin\Debug\net9.0\Domain.dll
@@ -13,6 +14,5 @@ E:\src\React\Reactivities\Persistance\obj\Debug\net9.0\Persista.3F568332.Up2Date
 E:\src\React\Reactivities\Persistance\obj\Debug\net9.0\Persistance.dll
 E:\src\React\Reactivities\Persistance\obj\Debug\net9.0\refint\Persistance.dll
 E:\src\React\Reactivities\Persistance\obj\Debug\net9.0\Persistance.pdb
-E:\src\React\Reactivities\Persistance\obj\Debug\net9.0\ref\Persistance.dll
-E:\src\React\Reactivities\Persistance\bin\Debug\net9.0\Persistance.runtimeconfig.json
 E:\src\React\Reactivities\Persistance\obj\Debug\net9.0\Persistance.genruntimeconfig.cache
+E:\src\React\Reactivities\Persistance\obj\Debug\net9.0\ref\Persistance.dll
