@@ -7,17 +7,11 @@
       "RelativeMoniker": "D:0:0:{AB9D0217-2036-43F5-B418-8A76C3FA4B38}|API.csproj|solutionrelative:controllers\\activitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37A08961-215A-4B6E-91B0-925D8F5CEB78}|..\\Domain\\Domain.csproj|e:\\src\\react\\reactivities\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D11B2BE-6BAD-4E09-9E0D-7F7BB71AB8F0}|..\\Application\\Application.csproj|e:\\src\\react\\reactivities\\application\\activities\\commands\\editactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB9D0217-2036-43F5-B418-8A76C3FA4B38}|API.csproj|e:\\src\\react\\reactivities\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB9D0217-2036-43F5-B418-8A76C3FA4B38}|API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA284061-67FF-461D-8105-410BCD53BB4C}|..\\Persistance\\Persistance.csproj|e:\\src\\react\\reactivities\\persistance\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37A08961-215A-4B6E-91B0-925D8F5CEB78}|..\\Domain\\Domain.csproj|e:\\src\\react\\reactivities\\domain\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,14 +38,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\src\\React\\Reactivities\\Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Class1.cs",
-              "ToolTip": "E:\\src\\React\\Reactivities\\Domain\\Class1.cs",
-              "RelativeToolTip": "..\\Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Title": "EditActivity.cs",
+              "DocumentMoniker": "E:\\src\\React\\Reactivities\\Application\\Activities\\Commands\\EditActivity.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Activities\\Commands\\EditActivity.cs",
+              "ToolTip": "E:\\src\\React\\Reactivities\\Application\\Activities\\Commands\\EditActivity.cs",
+              "RelativeToolTip": "..\\Application\\Activities\\Commands\\EditActivity.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T08:50:51.777Z",
+              "WhenOpened": "2025-05-10T13:34:13.798Z",
               "EditorCaption": ""
             },
             {
@@ -62,7 +56,7 @@
               "RelativeDocumentMoniker": "Controllers\\ActivitiesController.cs",
               "ToolTip": "E:\\src\\React\\Reactivities\\API\\Controllers\\ActivitiesController.cs",
               "RelativeToolTip": "Controllers\\ActivitiesController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T16:48:48.211Z",
               "EditorCaption": ""
@@ -75,35 +69,9 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\src\\React\\Reactivities\\API\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T16:34:30.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "E:\\src\\React\\Reactivities\\Persistance\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "..\\Persistance\\DbInitializer.cs",
-              "ToolTip": "E:\\src\\React\\Reactivities\\Persistance\\DbInitializer.cs",
-              "RelativeToolTip": "..\\Persistance\\DbInitializer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T16:29:45.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Activity.cs",
-              "DocumentMoniker": "E:\\src\\React\\Reactivities\\Domain\\Activity.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Activity.cs",
-              "ToolTip": "E:\\src\\React\\Reactivities\\Domain\\Activity.cs",
-              "RelativeToolTip": "..\\Domain\\Activity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T16:21:25.021Z",
               "EditorCaption": ""
             }
           ]

@@ -170,3 +170,5 @@ E:\src\React\Reactivities\API\obj\Debug\net9.0\refint\API.dll
 E:\src\React\Reactivities\API\obj\Debug\net9.0\API.pdb
 E:\src\React\Reactivities\API\obj\Debug\net9.0\API.genruntimeconfig.cache
 E:\src\React\Reactivities\API\obj\Debug\net9.0\ref\API.dll
+E:\src\React\Reactivities\API\bin\Debug\net9.0\MediatR.dll
+E:\src\React\Reactivities\API\bin\Debug\net9.0\MediatR.Contracts.dll
