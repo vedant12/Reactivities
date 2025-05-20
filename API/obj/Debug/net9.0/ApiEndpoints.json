@@ -21,15 +21,41 @@
   },
   {
     "ContainingType": "API.Controllers.ActivitiesController",
-    "Method": "PostData",
+    "Method": "CreateActivity",
     "RelativePath": "api/Activities",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "model",
-        "Type": "Domain.TestModel",
+        "Name": "activity",
+        "Type": "Domain.Activity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "API.Controllers.ActivitiesController",
+    "Method": "EditActivity",
+    "RelativePath": "api/Activities",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "activity",
+        "Type": "Domain.Activity",
         "IsRequired": true
       }
     ],
